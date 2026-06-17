@@ -26,12 +26,4 @@
         android:singleLine="true"
         android:layout_marginTop="2dp" />
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Баланс"
-        android:textSize="9sp"
-        android:textColor="#99FFFFFF"
-        android:singleLine="true" />
-
 </LinearLayout>
