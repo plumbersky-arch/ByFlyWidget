@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ByFly Баланс</string>
+    <string name="widget_name">ByFly Баланс</string>
+    <string name="widget_small_name">ByFly Мини</string>
+    <string name="refresh">Обновить</string>
+    <string name="enter_credentials">Введите данные для входа в ИССА Белтелеком</string>
+    <string name="login_hint">Логин (например 22010123456789)</string>
+    <string name="password_hint">Пароль</string>
+    <string name="save">Сохранить</string>
+    <string name="saving">Проверка данных…</string>
+    <string name="success">Данные сохранены. Виджет обновится автоматически.</string>
+    <string name="error_login">Ошибка входа. Проверьте логин и пароль.</string>
+    <string name="error_network">Ошибка сети. Проверьте подключение.</string>
+</resources>
